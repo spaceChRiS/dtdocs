@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interfaz de usuario on darktable 3.8 user manual</title>
+    <link>https://darktable-org.github.io/dtdocs/es/overview/user-interface/</link>
+    <description>Recent content in interfaz de usuario on darktable 3.8 user manual</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://darktable-org.github.io/dtdocs/es/overview/user-interface/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vistas</title>
+      <link>https://darktable-org.github.io/dtdocs/es/overview/user-interface/views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/es/overview/user-interface/views/</guid>
+      <description>La funcionalidad en darktable se divide en seis vistas diferentes:
+ mesa de luz Gestiona imágenes y colecciones. cuarto oscuro Desarrolla una sola imagen. mapa Muestra imágenes geoetiquetadas en un mapa y geoetiqueta manualmente nuevas imágenes. Imprimir Enviar imágenes a una impresora. presentación de diapositivas Muestra imágenes como una presentación de diapositivas, procesándolas sobre la marcha. captura Capture y guarde de forma remota imágenes tomadas con una cámara conectada.  Puede cambiar entre vistas haciendo clic en el nombre de la vista en la parte superior del panel de la derecha (la vista actualmente activa está resaltada) o usando uno de los siguientes atajos de teclado:</description>
+    </item>
+    
+    <item>
+      <title>diseño de pantalla</title>
+      <link>https://darktable-org.github.io/dtdocs/es/overview/user-interface/screen-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/es/overview/user-interface/screen-layout/</guid>
+      <description>El diseño de todas las vistas de darktable es similar y consta de un área central con paneles en los bordes:
+    área central : Contiene información y funciones específicas de la vista actual.
+  panel izquierdo : Contiene módulos que se utilizan principalmente para proporcionar información.
+  panel derecho : Contiene módulos que se utilizan principalmente para el procesamiento de imágenes.
+  banner superior : Contiene información sobre la versión actual de darktable y le permite cambiar entre vistas.</description>
+    </item>
+    
+    <item>
+      <title>tira de película</title>
+      <link>https://darktable-org.github.io/dtdocs/es/overview/user-interface/filmstrip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/es/overview/user-interface/filmstrip/</guid>
+      <description>La tira de película, cuando está habilitada, se muestra en la parte inferior de la pantalla (excepto en la vista de la mesa de luz, donde se reemplaza con la línea de tiempo módulo) y muestra las imágenes de la colección actual (configuradas en la vista de la mesa de luz). Puede navegar por la tira de película desplazándose con la rueda del ratón.
+La tira de película le permite interactuar con las imágenes mientras no está en la vista de la mesa de luz.</description>
+    </item>
+    
+    <item>
+      <title>panel superior</title>
+      <link>https://darktable-org.github.io/dtdocs/es/overview/user-interface/top-panel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/es/overview/user-interface/top-panel/</guid>
+      <description>Nota: El tamaño y la visibilidad de los paneles se almacenan de forma independiente para cada vista.
+  🔗A mano izquierda  vista Elija qué imágenes desea ver en la mesa de luz/tira de película, según la clasificación de estrellas y el estado de rechazo. Ordenar por Elija una propiedad por la que ordenar las imágenes.   ordenación por Cambie el orden de clasificación (ascendente/descendente).  🔗En el lado derecho    agrupamiento Expandir o contraer imágenes agrupadas.</description>
+    </item>
+    
+    <item>
+      <title>atajos de teclado</title>
+      <link>https://darktable-org.github.io/dtdocs/es/overview/user-interface/keyboard-shortcuts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/es/overview/user-interface/keyboard-shortcuts/</guid>
+      <description>Gran parte de la funcionalidad en darktable se puede controlar a través de atajos de teclado, que se pueden personalizar en preferencias&amp;gt; atajos.
+Presione la tecla H (para obtener ayuda) en cualquier vista de tabla oscura para mostrar una lista de todos los accesos directos que son aplicables a la vista actual.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliotheek on darktable 3.8 user manual</title>
+    <link>https://darktable-org.github.io/dtdocs/nl/lighttable/</link>
+    <description>Recent content in Bibliotheek on darktable 3.8 user manual</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://darktable-org.github.io/dtdocs/nl/lighttable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overzicht</title>
+      <link>https://darktable-org.github.io/dtdocs/nl/lighttable/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/nl/lighttable/overview/</guid>
+      <description>Met de bibliotheekweergave kan je jouw beeldcollectie bekijken en beheren.
+De centrale weergave bevat miniaturen van jouw afbeeldingen &amp;ndash; hoe ze worden weergegeven, hangt af van in welke mode je werkt.
+Terwijl de muis zich boven een afbeeldingsminiatuur bevindt of afbeeldingen zijn geselecteerd, zijn er een aantal acties die je kan uitvoeren met sneltoetsen:
+0 – 5 stel de beoordeling van de afbeelding in als een afbeelding 1 ster heeft en u druk je de 1-toets, wordt de afbeelding niet geclassificeerd R beoordeelt de afbeelding als &amp;quot;afgewezen&amp;quot; F1 – F5 een kleurlabel instellen Ctrl+C kopieer de geschiedenis Ctrl+V plak de gekopieerde geschiedenis D open in ontwikkelen voor ontwikkeling W zoom volledig in op het huidige beeld terwijl de toets wordt ingedrukt Ctrl+W zoom volledig in op de huidige afbeelding en toon gebieden die in focus zijn </description>
+    </item>
+    
+    <item>
+      <title>bibliotheek weergave layout</title>
+      <link>https://darktable-org.github.io/dtdocs/nl/lighttable/lighttable-view-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/nl/lighttable/lighttable-view-layout/</guid>
+      <description>🔗links paneel Van boven naar onder
+ importeer Afbeeldingen importeren uit het bestandssysteem of een aangesloten camera. collecties Filter de afbeeldingen die worden weergegeven in het middenpaneel van de bibliotheek &amp;ndash; ook gebruikt om de afbeeldingen te bedienen die worden weergegeven in de filmstrip en [timeline](../ ../module-referentie/utility-modules/lighttable/timeline.md) modules. recent gebruikte collecties recent gebruikte verzamelingen afbeeldingen bekijken. informatie beeldinformatie weergeven. lua scripts installer (optioneel) installeer lua-scripts.  🔗rechter paneel Van boven naar onder</description>
+    </item>
+    
+    <item>
+      <title>ongedaan maken / opnieuw uitvoeren</title>
+      <link>https://darktable-org.github.io/dtdocs/nl/lighttable/undo-redo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://darktable-org.github.io/dtdocs/nl/lighttable/undo-redo/</guid>
+      <description>De meeste wijzigingen die in de bibliotheek worden gemaakt, worden geregistreerd en kunnen worden teruggezet naar een eerdere status. Dit omvat wijzigingen aan kleurlabels, beoordelingen, geolokalisatie, tags, metadata, oriëntatie, kopiëren/plakken van geschiedenis, duplicatie van afbeeldingen of toepassing van een stijl. Merk op dat de mogelijkheid om acties ongedaan te maken/opnieuw uit te voeren onbeperkt is in het aantal stappen in de bibliotheekweergave, maar deze wordt elke keer dat je naar een andere weergave overschakelt gereset.</description>
+    </item>
+    
+  </channel>
+</rss>
